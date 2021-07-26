@@ -1,6 +1,6 @@
 # Luna Project
 
-Type of Yelp Web for Restaurants based on Python/Django and ES6/React. Raplacing Bootstrap UI framework with a UI.
+Type of Yelp Web for Restaurants based on Python/Django and ES6/React. Raplacing Bootstrap UI framework with UI.
 
 # Run the backend
 ```shell
